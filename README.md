@@ -1,2 +1,4 @@
 # topojson_world_map
-world map for topojson with Crimeea, Hong Kong and Singapore
+World map for Topojson with Crimeea, Hong Kong and Singapore
+
+You can view the map at http://cldex.net
